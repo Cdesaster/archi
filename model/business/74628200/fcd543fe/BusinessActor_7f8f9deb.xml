@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marché Entreprises"
+    id="7f8f9deb">
+  <properties
+      key="Responsable"
+      value="A. Chenet"/>
+</archimate:BusinessActor>

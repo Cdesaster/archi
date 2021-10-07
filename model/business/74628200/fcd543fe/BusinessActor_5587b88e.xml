@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion Santé et Prévoyance"
+    id="5587b88e">
+  <properties
+      key="Responsable"
+      value="D. Dumas"/>
+</archimate:BusinessActor>

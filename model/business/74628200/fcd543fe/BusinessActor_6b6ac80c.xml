@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Action Sociale et Prévention"
+    id="6b6ac80c">
+  <properties
+      key="Responsable"
+      value="N. Gateau"/>
+</archimate:BusinessActor>

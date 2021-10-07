@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - PRC"
+    id="f1eb6787">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

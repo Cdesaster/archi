@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projet EHPAD"
+    id="261a86fa">
+  <properties
+      key="Responsable"
+      value="N. Cambier"/>
+</archimate:BusinessActor>

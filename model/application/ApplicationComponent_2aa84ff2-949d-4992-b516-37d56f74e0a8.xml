@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROCK +"
+    id="2aa84ff2-949d-4992-b516-37d56f74e0a8">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

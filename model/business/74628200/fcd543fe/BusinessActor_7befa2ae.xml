@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risque Déonthologie"
+    id="7befa2ae">
+  <properties
+      key="Responsable"
+      value="N. Tribolet"/>
+</archimate:BusinessActor>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - PICSTAR"
+    id="a5728cbf">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

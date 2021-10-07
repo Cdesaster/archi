@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communication Externe"
+    id="c3a90d2b">
+  <properties
+      key="Responsable"
+      value="P. Hassel"/>
+</archimate:BusinessActor>

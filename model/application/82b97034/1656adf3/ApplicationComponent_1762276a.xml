@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - COSY 2.0"
+    id="1762276a">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

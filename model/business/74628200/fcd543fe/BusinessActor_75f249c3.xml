@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comptabilité"
+    id="75f249c3">
+  <properties
+      key="Responsable"
+      value="J. Alicot"/>
+</archimate:BusinessActor>

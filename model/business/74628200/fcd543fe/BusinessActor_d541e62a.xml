@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Direction Générale"
+    id="d541e62a"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="Responsable"
+      value="P. Barret"/>
+</archimate:BusinessActor>

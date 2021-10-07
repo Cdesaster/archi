@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AMa - Prescripteur"
+    id="id-e802583861474fafa203513324ad0584">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

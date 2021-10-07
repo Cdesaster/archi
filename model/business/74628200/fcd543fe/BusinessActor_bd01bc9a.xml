@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relation Clients"
+    id="bd01bc9a">
+  <properties
+      key="Responsable"
+      value="A.C. Vogler"/>
+</archimate:BusinessActor>

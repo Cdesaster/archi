@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pôle Gestion et Service Clients"
+    id="c2272b7b"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="Responsable"
+      value="P. Proton"/>
+</archimate:BusinessActor>

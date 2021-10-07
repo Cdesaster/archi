@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P5 - Développer les partenariats"
+    id="c6b2c3fb"
+    viewpoint="16">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8467d16b">
+    <bounds
+        x="396"
+        y="72"
+        width="120"
+        height="493"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_acbeec2a.xml#acbeec2a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

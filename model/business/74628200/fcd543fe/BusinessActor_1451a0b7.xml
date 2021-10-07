@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pôle Finances et Performance"
+    id="1451a0b7"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="Responsable"
+      value="R. Celié"/>
+</archimate:BusinessActor>

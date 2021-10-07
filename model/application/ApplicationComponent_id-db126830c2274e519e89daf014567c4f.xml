@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROCK + (copy)"
+    id="id-db126830c2274e519e89daf014567c4f">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

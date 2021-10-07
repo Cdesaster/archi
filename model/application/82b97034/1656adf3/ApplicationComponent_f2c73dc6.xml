@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - Easyvista"
+    id="f2c73dc6">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

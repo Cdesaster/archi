@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offre"
+    id="a1a1f55e">
+  <properties
+      key="Responsable"
+      value="M.C. Eudes"/>
+</archimate:BusinessActor>

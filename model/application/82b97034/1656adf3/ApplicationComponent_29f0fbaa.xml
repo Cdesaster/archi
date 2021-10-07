@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - Addactis"
+    id="29f0fbaa">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - Action Sociale (copy)"
+    id="id-d7f0b306efe94622bc3db31c3ccee7e6">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

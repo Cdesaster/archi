@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partenariat Epargne"
+    id="c9c8186c">
+  <properties
+      key="Responsable"
+      value="N. Nicollet"/>
+</archimate:BusinessActor>

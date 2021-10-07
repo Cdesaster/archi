@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AMa - LDAP"
+    id="3fa6c805">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

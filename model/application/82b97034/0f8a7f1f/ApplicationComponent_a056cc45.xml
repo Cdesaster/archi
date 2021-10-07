@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AMi - ADPDETCOL"
+    id="a056cc45"
+    documentation="application en complément de gtaia car gtatia ne contient pas les détail des calculs de ctoisation . par suite en se base sur le résultat du batch qui génére le borderau"/>

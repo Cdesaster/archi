@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Direction Ressources Humaines"
+    id="c08bff18">
+  <properties
+      key="Responsable"
+      value="C. D'Aléo"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-Saas - Teams RH"
+    id="e56cee46"
+    documentation="TEAMS GTAIA est intégré dans TEAMS Paie">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

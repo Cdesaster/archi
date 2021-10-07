@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - Dialog"
+    id="1e159d47">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

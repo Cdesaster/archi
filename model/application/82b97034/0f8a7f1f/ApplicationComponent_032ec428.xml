@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AMi - Prescripteurs"
+    id="032ec428"
+    documentation="le calcul des commission se fait dans les usines par contre on peut fair des ajouts manuel dens prescripteur. sinon il ne fait que du paiement."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FL - Position de compte COSY"
+    id="2b61b862"
+    documentation="Deux flux : un flux vers cosy et un flux vers Bdvie (m^me structure de flux)"/>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion de la Performance"
+    id="70366550">
+  <properties
+      key="Responsable"
+      value="O. Givet"/>
+</archimate:BusinessActor>

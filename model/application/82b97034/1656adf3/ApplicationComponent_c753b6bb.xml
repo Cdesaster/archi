@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - Base Réassurance"
+    id="c753b6bb">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

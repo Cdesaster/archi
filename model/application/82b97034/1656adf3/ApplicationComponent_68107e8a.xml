@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - Qualiac"
+    id="68107e8a"
+    documentation="deux modules Qualiac-BO et Qualiac">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

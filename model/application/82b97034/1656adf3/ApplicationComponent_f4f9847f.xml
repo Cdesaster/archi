@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - Outils d'administration"
+    id="f4f9847f">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

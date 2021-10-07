@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - Digital"
+    id="2b58b9fc"
+    documentation="pour la retraite : Espace Perso PP en 2015 &#xD;&#xA;en 2016 potentiellement espace perso PM et tiers">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marché Individuels et Professionnels"
+    id="962b01c2">
+  <properties
+      key="Responsable"
+      value="L. Berger"/>
+</archimate:BusinessActor>

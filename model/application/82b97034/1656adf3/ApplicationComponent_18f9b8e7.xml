@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - Usine Retraite"
+    id="18f9b8e7">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

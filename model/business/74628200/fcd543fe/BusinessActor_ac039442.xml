@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pôle Développement, Produits et Services"
+    id="ac039442"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="Responsable"
+      value="T. Perrin"/>
+</archimate:BusinessActor>

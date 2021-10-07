@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion Retraite Complémentaire"
+    id="a4a7c13d">
+  <properties
+      key="Responsable"
+      value="A. Huchard"/>
+</archimate:BusinessActor>

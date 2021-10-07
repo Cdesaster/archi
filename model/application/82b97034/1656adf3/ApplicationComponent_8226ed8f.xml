@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - SOLIAM"
+    id="8226ed8f">
+  <properties
+      key="Statut"
+      value="Menacée"/>
+</archimate:ApplicationComponent>

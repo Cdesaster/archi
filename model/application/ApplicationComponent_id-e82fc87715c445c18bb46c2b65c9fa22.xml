@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC - GTAIA (copy)"
+    id="id-e82fc87715c445c18bb46c2b65c9fa22">
+  <properties
+      key="Statut"
+      value="En production"/>
+</archimate:ApplicationComponent>

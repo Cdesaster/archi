@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrateur E.R.P."
+    id="24f68f02">
+  <properties
+      key="Responsable"
+      value="N. Guichon"/>
+</archimate:BusinessActor>

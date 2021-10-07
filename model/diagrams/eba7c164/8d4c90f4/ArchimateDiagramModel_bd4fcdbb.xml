@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CT112 - Inventaire Capitaux sous risque"
+    id="bd4fcdbb"
+    viewpoint="16">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="788825b3">
+    <bounds
+        x="720"
+        y="288"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_47da5f04.xml#47da5f04"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3de9f8b7">
+    <bounds
+        x="180"
+        y="312"
+        width="168"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_5eb4b80b.xml#5eb4b80b"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Achats"
+    id="5837076a">
+  <properties
+      key="Responsable"
+      value="C. Rioux"/>
+</archimate:BusinessActor>

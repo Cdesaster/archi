@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Direction des Systèmes d'Information"
+    id="38d76a70">
+  <properties
+      key="Responsable"
+      value="P. Mottier"/>
+</archimate:BusinessActor>
